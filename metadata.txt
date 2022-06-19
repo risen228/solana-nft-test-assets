@@ -1,15 +1,1 @@
-{
-  "name": "NFT Example",
-  "symbol": "NFT",
-  "description": "NFT example description",
-  "image": "https://raw.githubusercontent.com/risenforces/solana-nft-test-assets/main/logo.png",
-  "external_url": "https://raw.githubusercontent.com/risenforces/solana-nft-test-assets",
-   "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/risenforces/solana-nft-test-assets/main/logo.png",
-        "type": "image/png"
-      }
-    ]
-  }
-}
+{"name":"Doge Capital #2441","symbol":"DC","description":"Doge Capital is a collection of 5000 cute pixel doges on Solana. Why should monkes have all the fun? WOOF!","seller_fee_basis_points":500,"image":"https://www.arweave.net/hpVKL-bDKZ8qnODSoDX6AYa5NuM5J0phsqtko61bNBA?ext=png","external_url":"https://www.thedogecapital.com","update_authority":"H7a7ukVSEdGr56mkkXDjQhH1gZjcvMqEeVfSxk2dLdUK","attributes":[{"trait_type":"Background","value":"Orange"},{"trait_type":"Type","value":"Red"},{"trait_type":"Hats","value":"Sombrero"},{"trait_type":"Clothes","value":"Sailor Vest"},{"trait_type":"Eyes","value":"Eyes None"},{"trait_type":"Mouth","value":"Pipe"}],"collection":{"name":"Doge Capital","family":"Doge Capital"},"properties":{"files":[{"uri":"https://www.arweave.net/hpVKL-bDKZ8qnODSoDX6AYa5NuM5J0phsqtko61bNBA?ext=png","type":"image/png"}],"category":"image","creators":[{"address":"DRyjWStqbeR6eYDaGMPKHwcTopjgiFRyZdUi2Gp6vSnb","share":15},{"address":"H7a7ukVSEdGr56mkkXDjQhH1gZjcvMqEeVfSxk2dLdUK","share":15},{"address":"9fFK8LGVoTy35AemJFYqcxwfFN5kPkkWGEuupsfybmjT","share":70}]}}
